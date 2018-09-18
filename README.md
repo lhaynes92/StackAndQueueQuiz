@@ -1,4 +1,6 @@
-# Queue addition:
+# Coding Questions:
+
+### Queue toString
 
 Copy in your `Node` and `Queue` classes and add the following method to `Queue`:
 
@@ -7,7 +9,7 @@ Copy in your `Node` and `Queue` classes and add the following method to `Queue`:
 public String toString()
 
 ```
-
+You may also want to write a driver to test the toString method.
 
 ### Queue Functions
 
